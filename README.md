@@ -1,79 +1,65 @@
-## 👋 Hi there! I'm Ernesto Carocca
+## 👋 Hello, I'm Ernesto Carocca
 
 🎯 Fullstack Developer | 📍 Stockholm, Sweden | 📱 +46 72 315 81 73
 
-I’m a dedicated **Fullstack Developer** with a strong foundation in both **mobile** and **web development**. My expertise spans across **iOS**, **Android**, and **JavaScript-based frontend frameworks**, as well as backend technologies like **.NET** and **Node.js**. I take pride in writing clean, maintainable code and delivering intuitive, scalable applications. 
+I’m a committed **Fullstack Developer** with a background in **finance** and entrepreneurship, now fully focused on building scalable, user-focused software. With experience across both **frontend** and **backend** technologies, I enjoy transforming complex problems into clean, maintainable, and efficient code.
 
-With a background in **entrepreneurship** and **finance**, I bring a unique blend of business acumen and technical proficiency—enabling me to understand real-world problems and engineer effective digital solutions.
-
----
-
-### 💼 Experience
-
-**🚀 Fullstack Developer – Eyevinn Open Source Cloud**  
-_Aug 2024 – Dec 2025, Stockholm_  
-- Contributed to the development of a fullstack web app using **Next.js** and **TypeScript**  
-- Improved AI features and user experience  
-- Participated in agile processes, daily standups, and strategic planning
-
-**💻 Frontend Developer – Labelcaster**  
-_Jan 2024 – May 2024, Stockholm_
-
-**🌐 Frontend Developer (Internship) – Swedcon18**  
-_Aug 2023 – Oct 2023, Remote_  
-- Worked on a dynamic web application using **Next.js**, **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**  
-- Collaborated in an agile team, using **Git** and **GitHub** for version control  
-
-**📊 Founder – K2 Redovisning & Paidin24**  
-_Sep 2015 – Aug 2022, Stockholm_  
-- Founded and managed two companies in accounting and freelance employment  
-- Responsible for business development, strategy, marketing, customer relations, and financial consulting  
-- Developed efficient processes and built long-term client relationships
+My technical stack includes modern tools like **TypeScript**, **React**, **Next.js**, **.NET**, and **Firebase**, along with mobile development experience using **Swift**, **Kotlin**, and **Flutter**. I thrive in agile, collaborative teams and believe in continuous learning, clean architecture, and delivering real-world impact through technology.
 
 ---
 
-### 🧠 Skills & Tools
+### 🧠 Tech Stack
 
-**Languages & Frameworks:**  
-JavaScript, TypeScript, HTML/CSS, C#, Swift, Kotlin, Dart, SQL
+**Languages & Frameworks**  
+TypeScript • JavaScript • C# • Swift • Kotlin • Dart • SQL • HTML • CSS
 
-**Technologies & Tools:**  
-React, Next.js, Flutter, Firebase, .NET, Git, GitHub, Agile methodologies
+**Frontend**  
+React • Next.js • Tailwind CSS • Flutter
 
-**Platforms:**  
-iOS, Android, Web
+**Backend / Fullstack**  
+.NET • Node.js • Firebase • REST APIs
+
+**Tools & Methods**  
+Git • GitHub • Agile/Scrum • CI/CD • Figma • VS Code • IntelliJ
+
+**Platforms**  
+iOS • Android • Web
+
+---
+
+### 📚 Currently Focused On
+
+- Building production-ready fullstack applications
+- Deepening knowledge in cloud architecture and deployment workflows
+- Exploring advanced TypeScript patterns and design principles
+- Enhancing mobile development skills using Flutter and native tools
 
 ---
 
 ### 🎓 Education
 
-**📘 IT-Högskolan (Stockholm)**  
-_Aug 2022 – Jun 2024_  
-Frontend & Mobile App Development (iOS/Android)  
-> Focus on React, Flutter, Swift, Kotlin, Firebase, agile workflows, and database management
-
-**📘 Påhlmans Handelsinstitut (Stockholm)**  
-_YH Degree in Accounting_  
-_Aug 2013 – Jun 2025_
+**IT-Högskolan, Stockholm**  
+*Frontend & App Development (iOS/Android)*  
+_Aug 2022 – Jun 2024_
 
 ---
 
-### 🌱 A Bit About Me
+### ✨ About Me
 
-- 🔁 Always learning and improving
-- 🤝 Strong communicator who thrives in collaborative environments
-- 🔧 Passionate about solving real problems with clean code and smart architecture
+- Transitioned from finance into tech to follow my passion for development and problem solving
+- Strong communicator with an analytical mindset and a business-oriented approach
+- Passionate about clean code, UI/UX, and building tools that people love to use
 
 ---
 
-### 📫 Get in Touch
+### 📫 Contact
 
 📍 Stockholm  
 📞 +46 72 315 81 73  
-📧 [ernesto@example.com](mailto:ernesto@example.com) *(replace with your actual email)*  
-🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your actual profile)*
+📧 [ernesto@example.com](mailto:ernesto@example.com) *(replace with your email)*  
+🌐 [Portfolio](https://yourwebsite.com) *(optional)*  
+💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your profile)*
 
 ---
 
-> _"Code shouldn't just work – it should solve the right problem in the best way possible."_
+> "_Code is not just about functionality — it's about clarity, purpose, and delivering real value._"
