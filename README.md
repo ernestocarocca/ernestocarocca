@@ -1,6 +1,6 @@
 ## 👋 Hej! Jag heter Ernesto Carocca
 
-🎯 Fullstackutvecklare | 📍 Stockholm | 📱 072-315 81 73
+🎯 Fullstackutvecklare | 📍 Stockholm 
 
 Jag är en utbildad utvecklare med erfarenhet inom **iOS-, Android-** och **webbutveckling**. Jag brinner för att skapa smarta, effektiva och användarvänliga lösningar – från frontend med **React** och **Next.js**, till backend med **.NET** och **Node.js**. Med rötter i entreprenörskap och ekonomi kombinerar jag affärstänk med teknik, och har en naturlig fallenhet för både samarbete och problemlösning.
 
