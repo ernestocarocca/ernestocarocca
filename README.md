@@ -56,9 +56,9 @@ _Aug 2022 – Jun 2024_
 
 📍 Stockholm  
 📞 +46 72 315 81 73  
-📧 [ernesto@example.com](mailto:ernesto@example.com) *(replace with your email)*  
-🌐 [Portfolio](https://yourwebsite.com) *(optional)*  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your profile)*
+📧 [ernesto@example.com](mailto:ernestocarocca@gmail.com)  
+
+💼 [LinkedIn](www.linkedin.com/in/ernesto-carocca-a571b771) 
 
 ---
 
