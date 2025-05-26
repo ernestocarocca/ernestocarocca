@@ -11,24 +11,6 @@ I'm a trained and passionate **developer** with experience in **iOS**, **Android
 **🚀 Fullstack Developer – Eyevinn Open Source Cloud**  
 _Aug 2024 – Dec 2025, Stockholm_  
 - Contributed to the development of a fullstack web app using **Next.js** and **TypeScript**  
-- Improved AI features and user experience  
-- Participated in agile processes, daily standups, and strategic planning
-
-**💻 Frontend Developer – Labelcaster**  
-_Jan 2024 – May 2024, Stockholm_
-
-**🌐 Frontend Developer (Internship) – Swedcon18**  
-_Aug 2023 – Oct 2023, Remote_  
-- Worked on a dynamic web application using **Next.js**, **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**  
-- Collaborated in an agile team, using **Git** and **GitHub** for version control  
-
-**📊 Founder – K2 Redovisning & Paidin24**  
-_Sep 2015 – Aug 2022, Stockholm_  
-- Founded and managed two companies in accounting and freelance employment  
-- Responsible for business development, strategy, marketing, customer relations, and financial consulting  
-- Developed efficient processes and built long-term client relationships
-
----
 
 ### 🧠 Skills & Tools
 
