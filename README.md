@@ -2,7 +2,9 @@
 
 🎯 Fullstack Developer | 📍 Stockholm, Sweden | 📱 +46 72 315 81 73
 
-I'm a trained and passionate **developer** with experience in **iOS**, **Android**, and **web development**. I specialize in both **frontend** and **backend** technologies and love building modern, user-friendly, and efficient applications. With a strong background in **entrepreneurship** and **finance**, I combine business insight with technical skills to create real-world solutions.
+I’m a dedicated **Fullstack Developer** with a strong foundation in both **mobile** and **web development**. My expertise spans across **iOS**, **Android**, and **JavaScript-based frontend frameworks**, as well as backend technologies like **.NET** and **Node.js**. I take pride in writing clean, maintainable code and delivering intuitive, scalable applications. 
+
+With a background in **entrepreneurship** and **finance**, I bring a unique blend of business acumen and technical proficiency—enabling me to understand real-world problems and engineer effective digital solutions.
 
 ---
 
@@ -11,6 +13,24 @@ I'm a trained and passionate **developer** with experience in **iOS**, **Android
 **🚀 Fullstack Developer – Eyevinn Open Source Cloud**  
 _Aug 2024 – Dec 2025, Stockholm_  
 - Contributed to the development of a fullstack web app using **Next.js** and **TypeScript**  
+- Improved AI features and user experience  
+- Participated in agile processes, daily standups, and strategic planning
+
+**💻 Frontend Developer – Labelcaster**  
+_Jan 2024 – May 2024, Stockholm_
+
+**🌐 Frontend Developer (Internship) – Swedcon18**  
+_Aug 2023 – Oct 2023, Remote_  
+- Worked on a dynamic web application using **Next.js**, **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**  
+- Collaborated in an agile team, using **Git** and **GitHub** for version control  
+
+**📊 Founder – K2 Redovisning & Paidin24**  
+_Sep 2015 – Aug 2022, Stockholm_  
+- Founded and managed two companies in accounting and freelance employment  
+- Responsible for business development, strategy, marketing, customer relations, and financial consulting  
+- Developed efficient processes and built long-term client relationships
+
+---
 
 ### 🧠 Skills & Tools
 
@@ -50,10 +70,10 @@ _Aug 2013 – Jun 2025_
 
 📍 Stockholm  
 📞 +46 72 315 81 73  
-📧 ernestocarocca@gmail.com
+📧 [ernesto@example.com](mailto:ernesto@example.com) *(replace with your actual email)*  
 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*  
-💼 www.linkedin.com/in/ernesto-carocca-a571b771
+💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your actual profile)*
 
 ---
 
-
+> _"Code shouldn't just work – it should solve the right problem in the best way possible."_
